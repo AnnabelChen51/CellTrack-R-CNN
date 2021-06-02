@@ -7,6 +7,7 @@ CELLTRACK R-CNN: A NOVEL END-TO-END DEEP NEURAL NETWORK FOR CELL SEGMENTATION AN
 Author: Yuqian Chen, Yang Song, Chaoyi Zhang, Fan Zhang, Lauren O’Donnell, Wojciech Chrzanowski, Weidong Cai
 
 ## Model architecture
+[model architecture](https://github.com/AnnabelChen51/CellTrack-R-CNN/blob/main/fig1.png)
 
 ## Installation
 The code is tested with Python 3.7, CUDA 10.1, Pytorch 1.4 on Ubuntu 18.04.
