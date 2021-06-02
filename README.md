@@ -14,3 +14,12 @@ The code is tested with Python 3.7, CUDA 10.1, Pytorch 1.4 on Ubuntu 18.04.
 ## Usage
 ### Dataset
 The link for the data we use are provided [here] (https://datasets.deepcell.org/)
+
+## Run
+
+```
+python train.py
+```
+## License
+
+## Citation
